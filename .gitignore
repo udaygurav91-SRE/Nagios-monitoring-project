@@ -1,0 +1,6 @@
+*.log
+*.pid
+*.cache
+htpasswd.users
+nrpe.cfg
+mail.rc
